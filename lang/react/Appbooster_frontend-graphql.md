@@ -1,1 +1,1 @@
-../../cloned/test-assignments/tasks/frontend-graphql.md
+../../cloned/appbooster/test-assignments/tasks/frontend-graphql.md
